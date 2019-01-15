@@ -11,3 +11,11 @@
 	Usa una variable para indicar si lo hace automaticamente con todos los elementos de tipo password
 	Para llamarlo manualmente añadir la linea despues de incluir jquery y este fichero
 	$('elemento').jStrongPass();
+
+
+Puedes ver una demo en: https://jsfiddle.net/fk35Lms1/
+
+Ademas puedes utilizar una libreria de un repositorio github como si fuera un CDN mediante:
+
+https://gomakethings.com/how-to-turn-any-github-repo-into-a-cdn/
+
